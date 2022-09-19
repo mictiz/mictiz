@@ -1,4 +1,3 @@
-cat << EOF > view.sh
 #!/usr/bin/env bash
 
 if [ -d "resources" ]; then
@@ -7,4 +6,3 @@ fi
 
 hugo --i18n-warnings server --watch --disableFastRender --buildDrafts --baseUrl ""
 
-EOF

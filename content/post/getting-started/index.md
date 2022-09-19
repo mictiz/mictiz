@@ -3,7 +3,7 @@ title: 'Academic: the website builder for Hugo'
 subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Create a beautifully simple website in under 10 minutes.
 authors:
-- mic
+- admin
 tags:
 - Academic
 categories:
@@ -104,7 +104,7 @@ Choose a stunning color and font theme for your site. Themes are fully customiza
 
 ## Ecosystem
 
-* **[Academic mic](https://github.com/sourcethemes/academic-mic):** An mic tool to import publications from BibTeX or import assets for an offline site
+* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
 * **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
 
 ## Install
