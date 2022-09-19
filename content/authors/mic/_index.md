@@ -15,7 +15,7 @@ role: PostDoc Researcher in Digital Epidemiology and Computational Social Scienc
 # Organizations/Affiliations
 organizations:
 - name: ISI Foundation 
-  url: "https://www.isi.it/en/home/"
+  url: "https://www.isi.it/en/people/michele-tizzani"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include network science and complex systems, epidemiology and statistichal analysis.
@@ -29,6 +29,7 @@ interests:
 - Computational Social Science
 - Stochastic Processes
 - Music
+- Photography
 
 education:
   courses:
@@ -38,7 +39,7 @@ education:
   - course: MS Theoretical Phyisics
     institution: Università di Roma Tor Vergata
     year: 2015
-  - course: Erasmus
+  - course: Thesis
     institution: LAPD Marseille
     year: 2013
   - course: BSc Physics
@@ -50,12 +51,12 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mictiz@gmail.com".
+- icon: linkedin
+  icon_pack: icomoon
+  link: https://it.linkedin.com/in/michele-tizzani
 - icon: twitter
   icon_pack: fab
-  link: h
+  link: https://mobile.twitter.com/mic_tiz/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=iXfwdp4AAAAJ&hl=it
@@ -78,4 +79,4 @@ user_groups:
 - Visitors
 ---
 
-Michele Tizzani is a researcher at the ISI Foundation, Turin. 
+I'm a postdoc researcher at the ISI Foundation, Turin. 
