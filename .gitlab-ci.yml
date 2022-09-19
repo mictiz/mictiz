@@ -1,4 +1,4 @@
-cat << EOF > .gitlab-ci.yml
+
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 # Optional: review and set an exact version to align with your local hugo installation
 image: registry.gitlab.com/pages/hugo/hugo_extended:latest
@@ -21,4 +21,3 @@ pages:
   only:
   - master
 
-EOF
