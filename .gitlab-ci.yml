@@ -1,23 +1,19 @@
 
 # All available Hugo versions are listed here: https://gitlab.com/pages/hugo/container_registry
 # Optional: review and set an exact version to align with your local hugo installation
-image: registry.gitlab.com/pages/hugo/hugo_extended:latest
-
 variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
-test:
-  script:
-  - hugo --gc --minify
-  except:
-  - master
-
 pages:
+  image:
+    name: klakegg/hugo:ext-alpine
+    entrypoint : ['']
+  before_script:
+    - git submodule update --init --recursive
   script:
-  - hugo --gc --minify
+    - hugo --gc --minify
   artifacts:
     paths:
-    - public
+      - public
   only:
-  - master
-
+    - master
