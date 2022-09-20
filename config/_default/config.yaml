@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Michele Tizzani # Website name
-baseURL: 'https://gitlab.com/mictiz/micheletizzani' # Website URL
+baseURL: 'https://github.com/mictiz/micheletizzani' # Website URL
 
 ############################
 ## LANGUAGE
