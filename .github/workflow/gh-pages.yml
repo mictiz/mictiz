@@ -36,7 +36,7 @@ jobs:
         env:
         HUGO_VERSION: 0.68.3
         TARGET_REPO: mictiz/micheletizzani.github.io
-        TOKEN: ${{ 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 }}
+        TOKEN: ${{ secrets.WEBSITE }}
         #CNAME: www.jameswright.xyz
         #if: ${{ github.ref == 'refs/heads/master' }}
         #with:
