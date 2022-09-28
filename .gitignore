@@ -3,6 +3,8 @@
 
 # Hugo
 resources/
+node_modules/
+public/
 jsconfig.json
 node_modules/
 go.sum
