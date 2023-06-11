@@ -68,7 +68,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://gitlab.com/mictiz/micheletizzani'
+    url: 'https://gitlab.io/mictiz/micheletizzani'
     content_dir: content
     branch: main
   avatar:
