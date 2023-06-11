@@ -28,7 +28,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Communications physics*
-publication_short: In *JMIR*
+publication_short: In *Communications physics*
 
 abstract: Hypergraphs naturally represent higher-order interactions, which persistently appear in social interactions, neural networks, and other natural systems. Although their importance is well recognized, a theoretical framework to describe general dynamical processes on hypergraphs is not available yet. In this paper, we derive expressions for the stability of dynamical systems defined on an arbitrary hypergraph. The framework allows us to reveal that, near the fixed point, the relevant structure is a weighted graph-projection of the hypergraph and that it is possible to identify the role of each structural order for a given process. We analytically solve two dynamics of general interest, namely, social contagion and diffusion processes, and show that the stability conditions can be decoupled in structural and dynamical components. Our results show that in social contagion process, only pairwise interactions play a role in the stability of the absorbing state, while for the diffusion dynamics, the order of the interactions plays a differential role. Our work provides a general framework for further exploration of dynamical processes on hypergraphs.
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.nature.com/articles/s42005-021-00525-3.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
