@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact survey | Michele Tizzani</title>
+    <link>/tag/contact-survey.html</link>
+      <atom:link href="/tag/contact-survey/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contact survey</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/media/icon_hu86d7b74c7113abbfe98002d1f1a2b778_2487_512x512_fill_lanczos_center_3.png</url>
+      <title>Contact survey</title>
+      <link>/tag/contact-survey.html</link>
+    </image>
+    
+    <item>
+      <title>Impact of tiered measures on social contact and mixing patterns of in Italy during the second wave of COVID-19</title>
+      <link>/publication/bmc_impact_npi_comix.html</link>
+      <pubDate>Fri, 19 May 2023 00:00:00 +0000</pubDate>
+      <guid>/publication/bmc_impact_npi_comix.html</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
