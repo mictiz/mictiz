@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Michele Tizzani</title>
-    <link>/categories.html</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mictiz.github.io/micheletizzani/categories.html</link>
+      <atom:link href="https://mictiz.github.io/micheletizzani/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>/media/icon_hu86d7b74c7113abbfe98002d1f1a2b778_2487_512x512_fill_lanczos_center_3.png</url>
+      <url>https://mictiz.github.io/micheletizzani/media/icon_hu86d7b74c7113abbfe98002d1f1a2b778_2487_512x512_fill_lanczos_center_3.png</url>
       <title>Categories</title>
-      <link>/categories.html</link>
+      <link>https://mictiz.github.io/micheletizzani/categories.html</link>
     </image>
     
   </channel>
